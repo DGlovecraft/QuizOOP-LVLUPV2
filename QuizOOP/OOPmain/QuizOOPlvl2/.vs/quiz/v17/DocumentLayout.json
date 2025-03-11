@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|d:\\quizoop-lvlupv2\\quizoop\\oopmain\\quiz-main\\quiz\\classperson\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|solutionrelative:quiz\\classperson\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\quiz.csproj|D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\quiz.csproj|solutionrelative:quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|d:\\quizoop-lvlupv2\\quizoop\\oopmain\\quiz-main\\quiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|solutionrelative:quiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|d:\\quizoop-lvlupv2\\quizoop\\oopmain\\quiz-main\\quiz\\datamajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D75CB45-3C4C-40CF-9740-FD4A813CCDC5}|quiz\\Quizoop.csproj|solutionrelative:quiz\\datamajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "quiz\\Form1.Designer.cs",
+              "ToolTip": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\Form1.Designer.cs",
+              "RelativeToolTip": "quiz\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:52:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataMajor.cs",
+              "DocumentMoniker": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\DataMajor.cs",
+              "RelativeDocumentMoniker": "quiz\\DataMajor.cs",
+              "ToolTip": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\DataMajor.cs",
+              "RelativeToolTip": "quiz\\DataMajor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:27:37.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\classPerson\\Teacher.cs",
+              "RelativeDocumentMoniker": "quiz\\classPerson\\Teacher.cs",
+              "ToolTip": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\classPerson\\Teacher.cs",
+              "RelativeToolTip": "quiz\\classPerson\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:45:27.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "quiz\\Form1.cs",
+              "ToolTip": "D:\\QuizOOP-LVLUPV2\\QuizOOP\\OOPmain\\quiz-main\\quiz\\Form1.cs [Design]",
+              "RelativeToolTip": "quiz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:59:27.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
